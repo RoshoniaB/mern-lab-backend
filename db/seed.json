@@ -1,14 +1,23 @@
 [
     {
-        "title":"",
-        "artist":
+        "title":"bohemian rhapsody",
+        "artist":"Queen"
+
     },
     {
-        "title":"",
-        "artist":
+        "title":"Wannabe",
+        "artist":"Spice Girls"
+
     },
     {
-        "title":"",
-        "artist":
+        "title":"Narcos",
+        "artist":"Migos"
+
     },
+    {
+        "title":"C.R.E.A.M",
+        "artist":"Wu-Tang Clan"
+
+    }
+
 ]
