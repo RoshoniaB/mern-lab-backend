@@ -1,5 +1,5 @@
 const express = require('express')
-const Model1 = require('../models/Model1')
+const Song = require('../models/Song')
 
 
 const router = express.Router()
