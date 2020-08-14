@@ -1,6 +1,6 @@
 const mongoose = require('../db/connection');
 
-const modelSchema = new mongoose.Schema(
+const songSchema = new mongoose.Schema(
 	{
 		title: {
 			type: String,
@@ -13,4 +13,4 @@ const modelSchema = new mongoose.Schema(
 	}
 );
 
-module.exports = mongoose.model('Model', modelSchema);
+module.exports = mongoose.song('Song', songSchema);
